@@ -1,2 +1,3 @@
 # labcores.github.io
-site
+
+About the official website.
