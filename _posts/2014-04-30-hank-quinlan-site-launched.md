@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Bernado Stearns Apresenta no KDMILE 2017"
+date: 2017-09-25
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Member of LabCORES and master student of the Federal University of Rio de Janeiro, Bernardo Stearns, performed a lecture at the Symposium on Knowledge Discovery, Mining and Learning (KDMILE)
+on September 2017.
