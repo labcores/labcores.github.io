@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bernado Stearns Apresenta no KDMILE 2017"
+title: "Bernado Stearns Lectures at KDMILE 2017"
 date: 2017-09-25
 ---
 
