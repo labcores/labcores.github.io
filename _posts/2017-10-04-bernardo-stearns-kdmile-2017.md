@@ -9,4 +9,4 @@ on September 2017.
 
 He presented his work "A Dispersion-Based Discretization Method for Models Explanations".
 
-<img src="/images/2017/10/20171004-bernardo-kdmile.jpg" width="200" height="200" />
+<img src="/images/2017/10/20171004-bernardo-kdmile.jpg" width="320" height="240" />
