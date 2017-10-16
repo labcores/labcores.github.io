@@ -1,3 +1,13 @@
 name: Social Computing and Social Network Analysis Laboratory
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections:
+  redirects:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
