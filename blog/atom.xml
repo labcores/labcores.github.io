@@ -4,13 +4,21 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
 	<title>Hank Quinlan's Blog</title>
+=======
+	<title>CORES Laboratory Blog</title>
+>>>>>>> development
 	<link href="http://labcores.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://labcores.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://labcores.github.io/blog</id>
 	<author>
+<<<<<<< HEAD
 		<name>LabCORES</name>
+=======
+		<name>CORES Laboratory</name>
+>>>>>>> development
 		<email>laboratoriocores@gmail.com</email>
 	</author>
 
