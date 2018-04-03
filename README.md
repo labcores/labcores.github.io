@@ -1,3 +1,3 @@
-# labcores.github.io
+## labcores.github.io
 
 About the official website.
