@@ -52,3 +52,9 @@ div.project ul {
 div.research ul {
     list-style-type: none;
 }
+div.logo { 
+    padding:60px 0 0 0:
+    width: 60px; 
+    height: 50px; 
+    background-image: (/images/site-structure/logo.jpg) no-repeat top left; 
+}
